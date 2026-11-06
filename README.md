@@ -36,4 +36,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
