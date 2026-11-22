@@ -44,16 +44,19 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
