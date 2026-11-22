@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/krishnatiwari4919/leetcode_solutions/tree/master/0268-missing-number) |
